@@ -1,3 +1,3 @@
-# Clase 0 de DL 2021
+# Monty Hall Paradox
 
-Estuvimos trabajando un poco con Python, acá están las notebooks y clases predefinidas
+This Python script solves the Monty Hall Paradox from a frequentist perspective using simulations and the WLLN.
